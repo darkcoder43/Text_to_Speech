@@ -5,7 +5,7 @@ This is a simple Flask-based web application that converts text from a file into
 ## Features
 - Reads text from a file (`Text.txt`).
 - Converts text to speech using `gTTS`.
-- Serves the generated `.mp3` audio file on a Flask route (`/speak`).
+- Serves the generated `.mp3` audio file on a Flask route (`/`).
 - Audio file can either be downloaded or streamed directly through the browser.
 
 ## Requirements
